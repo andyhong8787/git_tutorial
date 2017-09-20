@@ -1,5 +1,4 @@
 
-My name is Steven ldskjflksdajflksdajflk;sdjfl.
-Nice to meet you, Hello. 
-This is the final version
-
+This is a test file in feature-branch.
+I edited some words in this file.
+We'll see the conflicts between this branch and master branch.
