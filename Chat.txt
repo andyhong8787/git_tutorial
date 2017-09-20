@@ -1,4 +1,7 @@
 
+
 This context is in the master branch.
-Thank you.
+This is a test file in feature-branch.
+
+We'll see the conflicts between this branch and master branch. I added here some text during the merge.
 
