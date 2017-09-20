@@ -1,4 +1,3 @@
 
-This is a test file in feature-branch.
-I edited some words in this file.
+I like you.
 We'll see the conflicts between this branch and master branch.
